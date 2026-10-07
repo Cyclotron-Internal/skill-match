@@ -1,0 +1,26 @@
+Priya Sharma
+priya.sharma@example.com | Senior Data Engineer
+
+SUMMARY
+Data engineer with 7 years of experience building cloud data platforms on Azure.
+
+SKILLS
+Pyhton, SQL, Azure Data Factory, Databricks, Spark, K8s, Docker, ReactJS, React, Power BI, Git, Scrum
+
+EXPERIENCE
+Senior Data Engineer - Contoso Analytics (2021 - Present)
+- Architected and led a team of 5 building an Azure lakehouse (Azure Data Factory, Databricks, Spark) processing 2 TB/day.
+- Wrote Python ETL frameworks and reusable libraries used across 12 pipelines; mentored juniors on Python best practices.
+- Deployed pipeline microservices on Kubernetes (AKS) with Docker and Azure DevOps CI/CD.
+- Built Power BI dashboards for finance stakeholders.
+
+Data Engineer - Fabrikam (2018 - 2021)
+- Developed SQL Server and PostgreSQL data warehouses; heavy SQL tuning and stored procedures.
+- Python scripts for data validation and scheduled jobs.
+- Built a small internal React admin page to monitor pipeline runs.
+
+PROJECTS
+- Churn prediction POC with scikit-learn (Machine Learning) - prototype only.
+
+CERTIFICATIONS
+Microsoft Certified: Azure Data Engineer Associate

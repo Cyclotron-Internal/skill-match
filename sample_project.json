@@ -1,0 +1,10 @@
+{
+  "project": "Cloud Data Platform Migration",
+  "required_skills": {
+    "Python": 3,
+    "Azure": 3,
+    "Kubernetes": 2,
+    "SQL": 3,
+    "Machine Learning": 2
+  }
+}

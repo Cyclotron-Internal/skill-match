@@ -1,0 +1,11 @@
+{
+  "project": "GenAI Policy Assistant (RAG)",
+  "required_skills": {
+    "Python": 3,
+    "LangChain": 3,
+    "RAG": 3,
+    "LLMs": 3,
+    "SQL": 2,
+    "Azure": 2
+  }
+}

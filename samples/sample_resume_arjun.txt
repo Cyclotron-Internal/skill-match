@@ -1,0 +1,19 @@
+Arjun Mehta
+arjun.mehta@example.com | Full Stack Developer
+
+SUMMARY
+Full stack developer with 4 years of experience in JavaScript, Node.js and React.
+
+SKILLS
+JS, TypeScript, React.js, NodeJS, Express, MongoDB, AWS, Docker, Jest, Python (basic)
+
+EXPERIENCE
+Full Stack Developer - Northwind Labs (2022 - Present)
+- Lead developer of a customer portal in React + TypeScript serving 50k users; designed component library.
+- Built REST APIs with Node.js and Express backed by MongoDB.
+- Wrote unit and integration tests with Jest (85% coverage).
+- Deployed services on AWS (EC2, S3, Lambda) using Docker.
+
+Junior Developer - Tailspin Toys (2020 - 2022)
+- Built UI features in JavaScript and React.
+- Small Python scripts for CSV data cleanup.
